@@ -9,7 +9,7 @@ _Nota: Sólo incluye pytest para realizar pruebas unitarias._
 ```bash
 pip install -r requirements.txt
 ```
-kjnkghggjbkj
+kjnkghggjbkkj
 ## Para probar el programa en modo gráfico
 
 ```bash
